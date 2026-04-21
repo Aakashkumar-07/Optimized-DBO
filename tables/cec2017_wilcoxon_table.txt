@@ -1,0 +1,12 @@
+
+=== WILCOXON SUMMARY: CEC 2017 (MSDBO vs competitors) ===
+Competitor      Win(+)  Tie(=)  Loss(-)
+----------------------------------------
+DBO                 30       0        0
+AO                  28       1        1
+MGO                 29       0        1
+FFO                 30       0        0
+AVOA                30       0        0
+NGO                 26       3        1
+ZOA                 30       0        0
+CoatiOA             30       0        0
